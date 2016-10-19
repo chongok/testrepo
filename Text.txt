@@ -1,3 +1,5 @@
 When no refspec was given on the command line, then git pull uses the refspec from the configuration or $GIT_DIR/remotes/<origin> . In such cases, the following rules apply: If branch.<name>.merge configuration for the current branch <name> exists, that is the name of the branch at the remote site that is merged.
 
 Line add1
+Line 2
+Line 3
